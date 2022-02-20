@@ -1,0 +1,22 @@
+{
+  "name": "janet",
+  "version": "1.0.0",
+  "description": "A simple exercise in making a discord bot to help me manage a couple servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosaka0/janet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosaka0/janet/issues"
+  },
+  "homepage": "https://github.com/nosaka0/janet#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
